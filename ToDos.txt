@@ -1,6 +1,4 @@
 clean house
 add a new member
-Make Soup
-Make pizza
-Make pancakes
-Master Python!
+Make PieMaster Python!
+Last todo
