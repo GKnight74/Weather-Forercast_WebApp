@@ -1,4 +1,2 @@
 clean house
-add a new member
-Make PieMaster Python!
 Last todo
